@@ -12,8 +12,8 @@ The Frozen-Food-Ordering-System is a web-based application designed to the proce
 <li>Admin panel for managing products and orders</li>
 
 <h2>Technologies Used 🤖:</h2>
-<li><strong>HTML: For the basic structure of the web pages</li>
-<li><strong>CSS: For styling the web pages</li>
-<li><strong>JSP (JavaServer Pages): For dynamic content rendering and server-side logic</li>
-<li><strong>Apache Tomcat: For hosting Java-based applications on the web</li>
-<li><strong>MySQL: For database management</li>
+<li><strong>HTML:</strong> For the basic structure of the web pages</li>
+<li><strong>CSS:</strong> For styling the web pages</li>
+<li><strong>JSP (JavaServer Pages):</strong> For dynamic content rendering and server-side logic</li>
+<li><strong>Apache Tomcat:</strong> For hosting Java-based applications on the web</li>
+<li><strong>MySQL:</strong> For database management</li>
