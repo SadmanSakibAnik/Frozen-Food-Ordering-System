@@ -1,7 +1,7 @@
 <h1>Frozen Food Ordering System</h1>
 
 <h2>Overview 📄:</h2>
-The Frozen-Food-Ordering-System is a web-based application designed to the process of ordering frozen food items. It leverages HTML, CSS, and JSP (JavaServer Pages) to create a user-friendly interface for customers to browse and purchase products online.
+The Frozen-Food-Ordering-System is a web-based application designed to the process of ordering frozen food items. Used HTML, CSS, and JSP (JavaServer Pages) to create a user-friendly interface for customers to browse and purchase products online.
 
 <h2>Features 📝:</h2>
 <li>User registration and login</li>
